@@ -2,7 +2,7 @@ export default function ContactPage() {
   return (
     <div className="flex items-center justify-center bg-gray-50">
       <section className="space-y-6 text-center">
-        <h2 className="text-3xl font-semibold text-orange-500">Contact Us</h2>
+        <h2 className="text-3xl font-semibold text-orange-500">Got ideas? Say hi!</h2>
         <form className="max-w-md mx-auto space-y-4 text-left">
           <input
             type="text"
